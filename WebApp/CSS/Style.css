@@ -1,0 +1,101 @@
+@charset "ISO-8859-1";
+
+/* userHomePage Nav Tab*/
+body{
+	
+	background: linear-gradient(106.5deg, rgba(255, 215, 185, 0.91) 23%, rgba(223, 159, 247, 0.8) 93%); 
+}
+
+
+.navbar-brand{
+	
+    font-size: 40px;
+    font-family: cursive;
+	
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightcoral;
+}
+.navbar-nav{
+	margin-left:61px;
+   height: 101px;
+padding-top: 12px;
+
+     }
+.nav-link{
+	font-size:29px;
+	font-family: 'Roboto', sans-serif;}
+.nav-item{
+	margin-left:21px;
+	margin-top:21px;
+	
+}
+.card-header:first-child {
+	border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+	font-size: 25px;
+}
+
+.circular--square {
+	border-top-left-radius: 10% 10%;
+	border-top-right-radius: 10% 10%;
+	border-bottom-right-radius: 10% 10%;
+	border-bottom-left-radius: 10% 10%;
+	height: 41px;
+}
+
+.tab-content {
+	margin-left: 30%;
+}
+
+
+.personal_Page_Logo
+{
+	margin-top:9px;
+	height:231px;
+	border-radius:12px;
+	margin-bottom:16px;
+	
+}
+.container_EditBtn{
+	display:flex;
+}
+
+.card-title{
+	font-size:40px;
+}
+.card-text{
+	font-size:20px;
+	
+}
+.card-link{
+	font-size:17px;
+	color:white;
+	
+}
+hr.new4 {
+  border: 1px solid red;
+}
+.display-3{
+	margin-left: 180px;
+}
+.btn-group {
+	margin-left: 53px;
+	
+	font-size:19px;
+	width:80px;
+	
+}
+
+.display-6{
+	margin-left: 210px;
+	margin-right:112px;
+	  margin-top: 9px;
+  font-size: 41px;
+  font-style: oblique;
+}
+
